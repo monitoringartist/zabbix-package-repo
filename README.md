@@ -1,8 +1,8 @@
-# Zabbix rpm/deb package community repo alpha
+# Zabbix rpm/deb package community repo - alpha
 
-Looking for maintainers.
+Looking for maintainers!
 
-Easy installation of Zabbix 3.x community projects.
+Easy installation of Zabbix community projects.
 
 ## Quick install
 
@@ -18,17 +18,17 @@ Visit [install documentation](https://packagecloud.io/monitoringartist/zabbix-3/
 
 # Packages
 
-| Package | Status | CI status | Maintainer | Decription | URL |
-| ------- | ------ | --------- | ---------- | ---------- | --- |
-| zabbix-bash-completion | looking for maintainer | - | - | - | [zabbix/zabbix-bash-completion](https://github.com/zabbix/zabbix-bash-completion) |
-| zabbix-module-docker | looking for maintainer | - | - | - | [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) |
-| zabbix-module-pidinfo | looking for maintainer | - | - | - | [butterbrother/zabbix-pidinfo](https://github.com/butterbrother/zabbix-pidinfo) |
-| zabbix-module-postgresql | looking for maintainer | - | - | - | [cavaliercoder/libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) |
+| Package | Status | CI status | Maintainer | URL |
+| ------- | ------ | --------- | ---------- | --- |
+| zabbix-bash-completion | looking for maintainer | - | - | [zabbix/zabbix-bash-completion](https://github.com/zabbix/zabbix-bash-completion) |
+| zabbix-module-docker | looking for maintainer | - | - | [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) |
+| zabbix-module-pidinfo | looking for maintainer | - | - | [butterbrother/zabbix-pidinfo](https://github.com/butterbrother/zabbix-pidinfo) |
+| zabbix-module-postgresql | looking for maintainer | - | - | [cavaliercoder/libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) |
 
 # Package requirements
 
 * available source code (Github)
-* automated build process with continous integration
+* automated build process with continous integration (travis-ci.org, drone.io, ...)
 
 # Author
 
