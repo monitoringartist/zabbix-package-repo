@@ -16,6 +16,12 @@ deb (Debian/Ubuntu):
 
 Visit [install documentation](https://packagecloud.io/monitoringartist/zabbix-3/install) for more types (manual/Puppet/Chef) of installations.
 
+Please donate to author, so he can continue to publish other awesome projects 
+for free:
+
+[![Paypal donate button](http://jangaraj.com/img/github-donate-button02.png)]
+(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8LB6J222WRUZ4)
+
 # Packages
 
 | Package | Status | CI status | Maintainer | URL |
