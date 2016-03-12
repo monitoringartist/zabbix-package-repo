@@ -1,6 +1,6 @@
 # Zabbix rpm/deb package community repo - alpha
 
-Looking for maintainers!
+Looking for maintainers! Please contact author.
 
 Easy installation of Zabbix community projects.
 
