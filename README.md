@@ -24,12 +24,13 @@ for free:
 
 # Packages
 
-| Package | Status | CI status | Maintainer | URL |
-| ------- | ------ | --------- | ---------- | --- |
-| zabbix-bash-completion | looking for maintainer | - | - | [zabbix/zabbix-bash-completion](https://github.com/zabbix/zabbix-bash-completion) |
-| zabbix-module-docker | looking for maintainer | - | - | [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) |
-| zabbix-module-pidinfo | looking for maintainer | - | - | [butterbrother/zabbix-pidinfo](https://github.com/butterbrother/zabbix-pidinfo) |
-| zabbix-module-postgresql | looking for maintainer | - | - | [cavaliercoder/libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) |
+| Package | Status | Maintainer | URL |
+| ------- | ------ | ---------- | --- |
+| zabbix-api-python-pyzabbix | looking for maintainer | - | [lukecyca/pyzabbix](https://github.com/lukecyca/pyzabbix) |
+| zabbix-bash-completion | looking for maintainer | - | [zabbix/zabbix-bash-completion](https://github.com/zabbix/zabbix-bash-completion) |
+| zabbix-module-docker | looking for maintainer | - | [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) |
+| zabbix-module-pidinfo | looking for maintainer | - | [butterbrother/zabbix-pidinfo](https://github.com/butterbrother/zabbix-pidinfo) |
+| zabbix-module-postgresql | - | [Ryan Armstrong](https://github.com/cavaliercoder) | [cavaliercoder/libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) |
 
 # Package requirements
 
